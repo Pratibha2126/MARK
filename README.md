@@ -1,0 +1,1 @@
+This project proposes a hybrid edge–cloud voice assistant architecture for smart environments, focusing on real-time responsiveness, privacy, and secure multiuser interaction. Time-critical voice operations are performed at the edge, while cloud components support scalability and system management.
